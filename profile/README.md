@@ -7,4 +7,5 @@ Chatswood High School's Team 32741 (RAMO) competes in FIRST Tech Challenges. Our
 **Currently run by the 2025/26 programming team:**
 - [@Pixlox](https://github.com/Pixlox)
 - [@SyntaxBreak](https://github.com/SyntaxBreak)
+- [@asandandahand](https://github.com/asandandahand)
 - [@Eric-P-Edu-1](https://github.com/Eric-P-Edu-1)
